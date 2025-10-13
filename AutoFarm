@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/f4shn/ImmortalHub/refs/heads/main/mm2lite.lua"))()
